@@ -1,0 +1,9 @@
+[
+{
+"reference": "Ji '23] Ji, X., Sungu-Eryilmaz, Y., Momeni, E., & Rawassizadeh, R. (2023). Speeding Up Question Answering Task of Language Models via Inverted Index. The Generative Al for Pervasive Computing Symposium (GenAI4PC), in conjunction with ACM Interactive, Mobile, Wearable and Ubiquitous Technologies. arXiv:2210.13578.",
+"title": "Speeding Up Question Answering Task of Language Models via Inverted Index",
+"first_author": "Ji, X.",
+"last_author": "Rawassizadeh, R."
+},
+]
+
