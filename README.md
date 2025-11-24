@@ -1,4 +1,4 @@
-# RAG-based Author details Extraction
+# RAG-based Author Metadata Extraction
 Developed a system that extracts affiliation and contact details of the first and last authors from the enclosed PDF file containing academic paper references and outputs the data into structured Excel files.
 
 ## Dataset Used
