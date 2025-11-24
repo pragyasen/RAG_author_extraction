@@ -1,5 +1,5 @@
 # RAG-based Author Metadata Extraction
-Developed a system that extracts affiliation and contact details of the first and last authors from the enclosed PDF file containing academic paper references and outputs the data into structured Excel files. Also leveraged LLMs to interpret complex text and online search capabilities to cross-reference and validate data against academic databases and institutional websites, ensuring high accuracy.
+Developed a system that extracts affiliation and contact details of the first and last authors from the enclosed PDF file containing academic paper references and outputs the data into structured Excel files. Leveraged LLMs to interpret complex text and add online search capabilities to cross-reference and validate data against academic databases and institutional websites, ensuring high accuracy.
 
 ## Dataset Used
 A dataset with 27 pages worth of references in a PDF file was used. <br>
